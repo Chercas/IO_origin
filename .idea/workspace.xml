@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="38822308-0d89-4725-aa0b-d95166ea18f3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/binary.py" afterPath="$PROJECT_DIR$/binary.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
