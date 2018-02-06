@@ -4,4 +4,3 @@ with open('binary', 'bw') as bin_file:
 
 with open('binary', 'br') as binFile:
     for b in binFile:
-        print(b)
